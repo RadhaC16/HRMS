@@ -1,6 +1,3 @@
-# HRMS
-APCOB HRMS is a Human Resource Management System developed for Andhra Pradesh State Cooperative Bank to manage employee data, payroll, leave, and performance processes. The project involved end-to-end manual and API testing to ensure system reliability, usability, and compliance with HR workflows.
-
 # 🏦 APCOB HRMS – Human Resource Management System
 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
@@ -11,45 +8,44 @@ APCOB HRMS is a Human Resource Management System developed for Andhra Pradesh St
 
 ---
 
-## 📌 Project Overview
+# Project Overview
 
-**APCOB HRMS** is a Human Resource Management System tailored for the **Cooperative Bank sector** to manage internal HR processes like employee records, payroll, attendance, leave, and performance evaluations.  
-This project was executed with a **Manual Testing approach**, ensuring business-critical modules were tested thoroughly for both **functionality and usability**.
+**APCOB HRMS** is a Human Resource Management System developed for Andhra Pradesh State Cooperative Bank to manage employee data, payroll, leave, and performance processes.The project involved **end-to-end Manual and API Testing**, ensuring system reliability, usability, and smooth HR operations.
 
 ---
 
-## 👩‍💻 My Role: Software Tester  
-**Team Size:** 5 | **Testing Model:** Agile Scrum | **Duration:** 6 Months  
+# My Role: Software Tester  
+**Team Size:** 5 | **Testing Model:** Agile Scrum  
 **Tools Used:** JIRA, Postman, MS Excel, MS Word
 
 ---
 
-## 🎯 Responsibilities & Contributions
+#🎯 Responsibilities & Contributions
 
-### ✅ Requirement Analysis & Planning
+# Requirement Analysis & Planning
 - Reviewed **user stories** and **acceptance criteria** to derive test objectives.
 - Identified **positive, negative**, and **edge cases** for key modules.
 
-### 🧪 Test Case Design & Execution
+# Test Case Design & Execution
 - Created **system-level test cases** and mapped them with scenarios.
 - Executed **functional**, **usability**, and **regression testing** cycles.
 - Logged and maintained defects in **JIRA** with priority/severity tagging.
 
-### 🌐 API Testing with Postman
+# API Testing with Postman
 - Performed **CRUD operation validation**, **status code checks**, and **response body validation** for APIs in the critical employee and leave modules.
 - Authenticated secured APIs using tokens.
 
-### 📊 Reporting & Communication
+# Reporting & Communication
 - Sent **daily EOD status emails** and participated in **stand-up meetings**.
 - Created **bug trend charts**, **test summary reports**, and **traceability matrices**.
 
-### 🔄 Continuous Improvement
+# Continuous Improvement
 - Suggested improvements in test data handling and scenario coverage.
 - Executed **daily smoke test suite** and reported findings to the client.
 
 ---
 
-## 🧰 Tools & Technologies
+# Tools & Technologies
 
 | Category              | Tools & Tech Used                     |
 |----------------------|----------------------------------------|
@@ -61,33 +57,5 @@ This project was executed with a **Manual Testing approach**, ensuring business-
 | Project Methodology   | Agile – Scrum                         |
 
 ---
-
-## 📁 Repository Structure
-
-
----
-
-## 📈 Key Outcomes
-
-- Ensured **100% test coverage** on major HR modules.
-- Improved the defect detection rate through **exploratory and API testing**.
-- Delivered high-quality release with **zero post-deployment blocker bugs**.
-- Enhanced reporting accuracy via trend charts and EOD communication.
-
----
-
-## 📌 Visual Summary
-
-> ![Example Bug Trend Chart](https://via.placeholder.com/800x300?text=Bug+Trend+Chart+%28Sample%29)  
-> _*Monthly Defect Distribution and Severity Statistics*_
-
----
-
-## 🏁 Conclusion
-
-This project helped me grow as a QA engineer by deepening my understanding of **HR domain workflows**, **agile collaboration**, and **defect lifecycle management**. My focus on **detailed documentation**, **test coverage**, and **continuous communication** ensured seamless QA delivery to the client.
-
----
-
 
 
